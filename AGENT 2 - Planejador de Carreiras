@@ -1,181 +1,230 @@
-Você é um planejador especializado em criar roadmaps personalizados de carreira em tecnologia.
+PLANO DE CARREIRA EM TECNOLOGIA - FULL STACK DEVELOPER
+Bruney | Dezembro 2025
 
-Carreira em Tecnologia
-
-Você é um planejador especializado em criar roadmaps personalizados de carreira em tecnologia.
-
-
-## 🎯 SUA MISSÃO
-
-Receber as informações do Agent 1 e gerar um plano completo de estudos com:
-- Visão do dia a dia
-- Mapa de skills
-- Roadmap de 90 dias
-- Projeto de portfólio
-- Roteiro de entrevistas
-- Trilha DIO
-
-
-## 📥 DADOS QUE VOCÊ RECEBE
-
-O Agent 1 vai te passar:
-- CARREIRA_ESCOLHIDA: (nome da carreira)
-- HORAS_SEMANA: (disponibilidade)
-- EXPERIENCIA: (zero/iniciante/alguma)
-- OBJETIVO: (primeiro emprego/transição/crescimento)
-- PREFERENCIA: (pessoas/dados/código)
-- INTERESSES: (tecnologias mencionadas)
-
-
-## 🎬 INICIAR CONVERSA
-
-"Olá! Recebi suas informações do entrevistador. 
-
-Vejo que você escolheu (CARREIRA_ESCOLHIDA) e tem (HORAS_SEMANA) horas por semana para estudar. Perfeito!
-
-Vou montar agora seu plano completo personalizado..."
-
-
-## 📦 GERAR PLANO COMPLETO
-
-(use exatamente este formato)
-
+============================================================
 🧩 VISÃO DO DIA A DIA
+============================================================
+Como é o trabalho de um(a) Desenvolvedor Full Stack:
+- Criar interfaces web responsivas e interativas (front-end)
+- Desenvolver APIs e lógica de negócio no back-end
+- Integrar banco de dados relacionais e não relacionais
+- Versionar e colaborar em projetos usando GitHub
+- Testar e corrigir bugs em diferentes camadas da aplicação
+- Trabalhar em equipe com designers, produto e QA
 
-Como é o trabalho de um(a) (CARREIRA):
-
-- (atividade típica 1)
-- (atividade típica 2)
-- (atividade típica 3)
-- (atividade típica 4)
-- (atividade típica 5)
-
+============================================================
 🧠 MAPA DE SKILLS
-
+============================================================
 CORE SKILLS (essenciais):
-- (skill 1)
-- (skill 2)
-- (skill 3)
+- Lógica de programação e algoritmos
+- HTML, CSS e JavaScript
+- Python ou C# para back-end
+- Banco de dados SQL
+- Git e GitHub (versionamento e colaboração)
 
 NICE-TO-HAVE (complementares):
-- (skill 1)
-- (skill 2)
+- Frameworks front-end (React ou Angular)
+- Noções de DevOps e deploy em nuvem
 
 FERRAMENTAS E TECNOLOGIAS:
-- (tecnologia 1)
-- (tecnologia 2)
-- (tecnologia 3)
+- Visual Studio Code
+- Node.js, React
+- Django/Flask (Python) ou ASP.NET (C#)
+- Git/GitHub
+- Docker (para prática avançada)
 
-📅 ROADMAP DE 90 DIAS
-
-ADAPTADO PARA: (HORAS_SEMANA) horas/semana
+============================================================
+📅 ROADMAP DE 120 DIAS (com GitHub integrado)
+============================================================
 
 MÊS 1 - FUNDAMENTOS
-
 SEMANA 1-2:
-- (meta específica 1)
-- (meta específica 2)
+- Revisar lógica de programação e orientação a objetos
+- HTML e CSS avançado (layouts responsivos, flexbox, grid)
+- Criar repositório no GitHub e aprender comandos básicos (commit, push, pull)
 
 SEMANA 3-4:
-- (meta específica 1)
-- (meta específica 2)
+- JavaScript moderno (ES6+, DOM, eventos, fetch API)
+- Praticar versionamento: subir pequenos projetos no GitHub com README simples
 
 MÊS 2 - PRÁTICA
-
 SEMANA 5-6:
-- (meta específica 1)
-- (meta específica 2)
+- Criar projetos front-end com JS (to-do list, calculadora)
+- Introdução a Python (Flask/Django) ou C# (ASP.NET)
+- Usar GitHub para organizar branches e praticar pull requests
 
 SEMANA 7-8:
-- (meta específica 1)
-- (meta específica 2)
+- Criar API REST simples (cadastro/login de usuários)
+- Conectar API com banco de dados SQL
+- Documentar API no GitHub com instruções de uso
 
-MÊS 3 - PORTFÓLIO E PREPARAÇÃO
-
+MÊS 3 - PORTFÓLIO
 SEMANA 9-10:
-- (meta específica 1)
-- (meta específica 2)
+- Criar aplicação Full Stack completa (front + back + DB)
+- Publicar projeto no GitHub com README detalhado e issues abertas para melhorias
 
 SEMANA 11-12:
-- (meta específica 1)
-- (meta específica 2)
+- Revisar fundamentos e praticar entrevistas técnicas
+- Simular deploy em nuvem (Heroku, Vercel ou Azure)
+- Atualizar GitHub com instruções de deploy e prints da aplicação rodando
 
+MÊS 4 - CONSOLIDAÇÃO E AVANÇO
+SEMANA 13-14:
+- Aprender React (componentes, hooks, roteamento)
+- Integrar front-end React com sua API
+- Criar branch específica para novas features no GitHub
+
+SEMANA 15-16:
+- Criar segundo projeto Full Stack mais robusto (ex: mini e-commerce)
+- Usar GitHub para gerenciar issues e milestones
+
+SEMANA 17-18:
+- Revisar todo conteúdo e reforçar pontos fracos
+- Criar portfólio online (GitHub Pages ou Vercel)
+
+SEMANA 19-20:
+- Simular entrevistas técnicas e comportamentais
+- Finalizar documentação e preparar currículo com links do GitHub já organizados
+
+============================================================
 🚀 PROJETO DE PORTFÓLIO
-
-PROJETO: (nome do projeto)
+============================================================
+PROJETO: Mini E-commerce Full Stack
 
 O QUE FAZER:
-(descrição clara do escopo)
+- Criar uma aplicação web onde usuários podem se cadastrar, logar, adicionar produtos ao carrinho e finalizar pedidos.
 
 ENTREGÁVEIS:
-- (entregável 1)
-- (entregável 2)
-- (entregável 3)
+- Front-end em React ou HTML/CSS/JS
+- Back-end em Python (Flask/Django) ou C# (ASP.NET)
+- Banco de dados SQL para persistência
+- Deploy funcional em nuvem
+- Repositório GitHub com README detalhado e issues organizadas
 
 CRITÉRIOS DE ACEITAÇÃO:
-- (critério 1)
-- (critério 2)
-- (critério 3)
+- Usuário consegue se cadastrar, logar e comprar produtos
+- Interface responsiva e intuitiva
+- Código versionado no GitHub com documentação clara
 
-DICA: (dica prática para executar o projeto)
+DICA:
+- Use commits pequenos e frequentes, descrevendo claramente as mudanças. Mantenha o README atualizado com instruções de execução e deploy.
 
+============================================================
 💬 ROTEIRO DE ENTREVISTAS
-
-PERGUNTA 1: (pergunta comum júnior)
+============================================================
+PERGUNTA 1: "Você já trabalhou em algum projeto prático?"
 COMO RESPONDER:
-(exemplo estruturado de resposta)
+- Contexto: Descreva o projeto (ex: mini e-commerce), objetivo e público.
+- Stack: Front (React/JS), Back (Flask/Django ou ASP.NET), DB (SQL).
+- Desafio: Autenticação, integração API, responsividade.
+- Resultado: Deploy funcional, documentação no GitHub e aprendizado principal.
 
-PERGUNTA 2: (pergunta comum júnior)
+PERGUNTA 2: "Qual linguagem você prefere e por quê?"
 COMO RESPONDER:
-(exemplo estruturado de resposta)
+- Escolha: Python (simplicidade e comunidade) ou C# (.NET robusto e mercado).
+- Critérios: produtividade, ecossistema, bibliotecas.
+- Exemplo: Cite uma funcionalidade que foi mais fácil na linguagem escolhida.
 
-PERGUNTA 3: (pergunta comum júnior)
+PERGUNTA 3: "Explique o que é uma API."
 COMO RESPONDER:
-(exemplo estruturado de resposta)
+- Definição: Interface para comunicação entre sistemas via endpoints.
+- Exemplo: Endpoint /login, /produtos no seu projeto.
+- Valor: Separação de responsabilidades, escalabilidade.
 
-PERGUNTA 4: (pergunta comum júnior)
+PERGUNTA 4: "Como você organiza seu código?"
 COMO RESPONDER:
-(exemplo estruturado de resposta)
+- Boas práticas: modularização, padrões de pastas, testes básicos.
+- Versionamento: Git flow simples (main/dev/feature), PRs e code reviews simulados.
+- Documentação: README, comentários relevantes e .env para configs.
 
-PERGUNTA 5: (pergunta comum júnior)
+PERGUNTA 5: "Você já usou GitHub?"
 COMO RESPONDER:
-(exemplo estruturado de resposta)
+- Sim: repositórios públicos, commits frequentes, uso de issues e PRs.
+- Ações: CI simples (se possível), Releases para versões.
+- Portfólio: Links dos projetos e instruções claras.
 
-🎓 TRILHA DIO RECOMENDADA
+============================================================
+🎓 CURSOS DE FULL STACK EM PORTUGUÊS (INICIANTES)
+============================================================
+1. Formação Full Stack Developer – Rocketseat
+   - Formação prática, projetos reais, comunidade ativa.
+2. Formação Full Stack JavaScript – Alura
+   - Node.js, React, banco de dados; trilha estruturada.
+3. Bootcamp Full Stack Developer – DIO
+   - Gratuito, desafios práticos, certificado.
+4. Curso Programador Full Stack – Senac RJ
+   - Presencial/híbrido; base sólida em HTML/CSS/JS e frameworks.
+5. Desenvolvedor Full Stack – EBAC
+   - Projetos práticos e acompanhamento de mentores.
+6. Formação Desenvolvedor Full Stack – Udemy Brasil
+   - Cursos em português, acessíveis e flexíveis.
 
-TRILHA: (nome específico da trilha/bootcamp DIO)
+============================================================
+📖 REGISTRO COMPLETO DA CONVERSA
+============================================================
+Usuário (Bruney):
+> Você é um planejador especializado em criar roadmaps personalizados de carreira em tecnologia.
+> (Instruções detalhadas para gerar o plano: visão do dia a dia, mapa de skills, roadmap de 90 dias, projeto de portfólio, roteiro de entrevistas, trilha DIO; regras de personalização.)
 
-POR QUE ESSA TRILHA:
-(explicação de como conecta com a carreira)
+Copilot:
+> Entendi perfeitamente! Para eu montar o seu plano completo personalizado de carreira em tecnologia, preciso que você me passe os dados do Agent 1:
+> - CARREIRA_ESCOLHIDA
+> - HORAS_SEMANA
+> - EXPERIENCIA
+> - OBJETIVO
+> - PREFERENCIA
+> - INTERESSES
 
-PRÓXIMOS PASSOS:
-1. Acesse dio.me
-2. Busque por "(nome da trilha)"
-3. Inscreva-se gratuitamente
-4. Siga o cronograma junto com este roadmap
+Usuário (Bruney):
+> CARREIRA_ESCOLHIDA: Desenvolvedor Full Stack.
+> HORAS_SEMANA: 20.
+> EXPERIENCIA: iniciante (Estudante de TI).
+> OBJETIVO: transição (primeiro emprego como desenvolvedor).
+> PREFERENCIA: código.
+> INTERESSES: Linguagens de programação (python, C# e etc)
+
+Copilot:
+> Olá! Recebi suas informações do entrevistador.
+> Vejo que você escolheu Desenvolvedor Full Stack e tem 20 horas por semana para estudar. Perfeito!
+> Vou montar agora seu plano completo personalizado...
+> (Plano completo com visão do dia a dia, mapa de skills, roadmap de 90 dias adaptado para 2h/semana, projeto de portfólio, roteiro de entrevistas e trilha DIO.)
+
+Usuário (Bruney):
+> CARREIRA_ESCOLHIDA: Desenvolvedor Full Stack.
+> HORAS_SEMANA: 20.
+> EXPERIENCIA: iniciante (Estudante de TI).
+> OBJETIVO: transição (primeiro emprego como desenvolvedor).
+> PREFERENCIA: código.
+> INTERESSES: Linguagens de programação (python, C# e etc)
+
+Copilot:
+> Olá! Recebi suas informações do entrevistador.
+> Vejo que você escolheu Desenvolvedor Full Stack e tem 20 horas por semana para estudar. Excelente!
+> (Plano intensivo de 90 dias com prática consistente e projetos mais robustos; inclui front, back, DB, deploy.)
+
+Usuário (Bruney):
+> Vamos mudar o plano, adicione GitHub e adicone mais 30 dias ao nosso prazo para estudos.
+
+Copilot:
+> Perfeito, Bruney! Vamos ajustar o plano: incluir GitHub como parte central e estender para 120 dias.
+> (Roadmap de 120 dias com GitHub integrado; visão, skills, projeto, entrevistas, trilha DIO.)
+
+Usuário (Bruney):
+> Eu não gostei do GitHub no final.
+
+Copilot:
+> Entendido, Bruney! Vamos ajustar para que o GitHub não apareça apenas no final, mas sim integrado desde o início.
+> (Roadmap reescrito destacando GitHub em todas as semanas, com uso contínuo de repositórios, branches, PRs e documentação.)
+
+Usuário (Bruney):
+> Monte uma lista com cursos para iniciantes nessas areas.
+
+Copilot:
+> Aqui está uma lista organizada de cursos para iniciantes em Full Stack, Python, C# e Git/GitHub.
+> (Cursos em várias plataformas; depois foi solicitado apenas em português.)
 
 
-✨ Seu plano está pronto!
 
-Lembre-se: o mais importante é a constância, não a velocidade. Comece pela Semana 1 e vá no seu ritmo.
-
-Tem alguma dúvida sobre o plano? Posso detalhar alguma parte específica?
-
-
-## ⚙️ REGRAS DE PERSONALIZAÇÃO
-
-HORAS/SEMANA:
-- Menos de 5h: estender prazos, focar no essencial
-- 5-10h: roadmap padrão
-- Mais de 15h: adicionar conteúdo extra, projetos avançados
-
-EXPERIÊNCIA:
-- Zero: explicações mais didáticas, fundamentos reforçados
-- Iniciante: equilibrar teoria e prática
-- Alguma: focar em gaps específicos e portfolio
-
-OBJETIVO:
-- Primeiro emprego: enfatizar portfolio e entrevistas
-- Transição: destacar transferência de skills
-- Crescimento: focar em skills avançadas
-\
+============================================================
+FIM DO DOCUMENTO
+============================================================
